@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 80df9214703ad524fbd055b73ccb4d5e
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 45344b705e67f8144af7b27b1d3c3d3a
+  - enabled: 1
+    path: Assets/Scenes/Boss1Menu.unity
+    guid: 82c11572e2c960f4aa2e030b35df5acb
+  - enabled: 1
+    path: Assets/Scenes/Boss1.unity
+    guid: 2cb046c70a680114396ccf1996d2bb59
+  - enabled: 1
+    path: Assets/Scenes/Level2Menu.unity
+    guid: 9ac05800bbd74864b9e07aeed264b239
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 3bae682bdcac08e4496449659c37135c
+  - enabled: 1
+    path: Assets/Scenes/Boss2Menu.unity
+    guid: b8eec4b14c2c68a4da1a1f51b8a9e777
+  - enabled: 1
+    path: Assets/Scenes/Boss2.unity
+    guid: a706ef24faeb2cb45b89dbd7a1fcff91
+  - enabled: 1
+    path: Assets/Scenes/VictoryMenu.unity
+    guid: d7341fa054c08aa4a81b86ed75a32048
+  - enabled: 1
+    path: Assets/Scenes/DeathMenu.unity
+    guid: 67a992fbc666d2d4faf540df3edddd24
+  m_configObjects: {}
